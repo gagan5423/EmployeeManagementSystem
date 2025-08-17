@@ -91,5 +91,6 @@ mvn spring-boot:run
 
 ## Screenshots
 
-![Home Page](images/home_page.png)
-![Add Employee](images/add_employee.png)
+![Home Page](images/Screenshot 2025-08-17 211851.png)
+![Add Employee](images/Screenshot 2025-08-17 211819.png)
+![Home Page](images/Screenshot 2025-08-17 211754.png)
