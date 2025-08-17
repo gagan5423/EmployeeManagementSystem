@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+      th:replace="~{ base :: layout(~{::title}, ~{::content}) }">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Employee Report</title>
+</head>
+
+<body>
+<section th:fragment="content">
+    <div class="container p-5">
+        <div class="row">
+            <div class="col-md-8 offset-md-2">
+                <div class="card">
+                    <div class="card-header text-center fs-4">Employee Statistics Report</div>
+                    <div class="card-body">
+                        <table class="table table-bordered">
+                            <tbody>
+                                <tr>
+                                    <th>Total Employees</th>
+                                    <td th:text="${report.totalEmployees}"></td>
+                                </tr>
+                                <tr>
+                                    <th>Average Salary</th>
+                                    <td th:text="${report.avgSalary}"></td>
+                                </tr>
+                                <tr>
+                                    <th>Maximum Salary</th>
+                                    <td th:text="${report.maxSalary}"></td>
+                                </tr>
+                                <tr>
+                                    <th>Minimum Salary</th>
+                                    <td th:text="${report.minSalary}"></td>
+                                </tr>
+                                <tr>
+                                    <th>Male Employees</th>
+                                    <td th:text="${report.maleCount}"></td>
+                                </tr>
+                                <tr>
+                                    <th>Female Employees</th>
+                                    <td th:text="${report.femaleCount}"></td>
+                                </tr>
+                                <tr>
+                                    <th>Average Age</th>
+                                    <td th:text="${report.avgAge}"></td>
+                                </tr>
+                                <tr>
+                                    <th>Maximum Age</th>
+                                    <td th:text="${report.maxAge}"></td>
+                                </tr>
+                                <tr>
+                                    <th>Minimum Age</th>
+                                    <td th:text="${report.minAge}"></td>
+                                </tr>
+                                <tr>
+                                    <th>Average Experience</th>
+                                    <td th:text="${report.avgExp}"></td>
+                                </tr>
+                                <tr>
+                                    <th>Maximum Experience</th>
+                                    <td th:text="${report.maxExp}"></td>
+                                </tr>
+                                <tr>
+                                    <th>Minimum Experience</th>
+                                    <td th:text="${report.minExp}"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <div class="text-center">
+                            <a href="/" class="btn btn-primary">Back to Home</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+</body>
+</html>

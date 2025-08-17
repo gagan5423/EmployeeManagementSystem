@@ -1,0 +1,28 @@
+2025-08-17 16:00:15 INFO  AUDIT - Deleted Employee with ID 10
+2025-08-17 16:00:16 INFO  AUDIT - Added Employee: Employee [id=13, name=Mark Smith, email=null, address=null, gender=Male, password=null, role=null, salary=50000.0, age=28, experience=3, bonus=0.0, department=Finance, jobTitle=Analyst]
+2025-08-17 16:04:16 INFO  AUDIT - Added Employee: Employee [id=16, name=ashwath, email=test@gmail.com, address=Adyar , gender=Female, password=shraddha, role=null, salary=800000.0, age=22, experience=1, bonus=900.0, department=IT, jobTitle=SDE]
+2025-08-17 16:04:29 INFO  AUDIT - Updated Employee: Employee [id=16, name=ashwath, email=test@gmail.com, address=Adyar , gender=Female, password=shraddha, role=null, salary=800000.0, age=22, experience=1, bonus=900.0, department=Cleaning, jobTitle=SDE]
+2025-08-17 16:04:33 INFO  AUDIT - Deleted Employee (via search) with ID 15
+2025-08-17 16:04:56 INFO  AUDIT - Updated Employee: Employee [id=16, name=ashwath, email=test@gmail.com, address=Adyar , gender=Female, password=shraddha, role=null, salary=800000.0, age=22, experience=1, bonus=900.0, department=Cleaning, jobTitle=SDE]
+2025-08-17 20:23:18 INFO  AUDIT - Deleted Employee (via search) with ID 16
+2025-08-17 20:24:38 INFO  AUDIT - Added Employee: Employee [id=17, name=Gagan K Achar, email=gagan.ds22@sahyadri.edu.in, address=Adyar , gender=Male, password=789, role=null, salary=30000.0, age=25, experience=32, bonus=55.0, department=Cs, jobTitle=SDE]
+2025-08-17 20:24:43 INFO  AUDIT - Deleted Employee (via search) with ID 17
+2025-08-17 20:33:34 INFO  AUDIT - Added Employee: Employee [id=18, name=Gagan K Achar, email=gagan.ds22@sahyadri.edu.in, address=Adyar , gender=Male, password=aasdfsa, role=null, salary=45452.0, age=20, experience=20, bonus=20.0, department=Cleaning, jobTitle=SDE]
+2025-08-17 20:33:54 INFO  AUDIT - Deleted Employee (via search) with ID 18
+2025-08-17 20:35:34 INFO  AUDIT - Added Employee: Employee [id=19, name=ashwath, email=gagan.ds22@sahyadri.edu.in, address=Adyar , gender=Male, password=200, role=null, salary=200.0, age=200, experience=2, bonus=200.0, department=rr, jobTitle=SDE]
+2025-08-17 20:35:38 INFO  AUDIT - Deleted Employee (via search) with ID 19
+2025-08-17 20:40:12 INFO  AUDIT - Added Employee: Employee [id=20, name=Gagan K Achar, email=gagan.ds22@sahyadri.edu.in, address=Adyar , gender=Male, password=4545, role=null, salary=1313.0, age=20, experience=2, bonus=200.0, department=Cleaning, jobTitle=]
+2025-08-17 20:40:19 INFO  AUDIT - Deleted Employee (via search) with ID 20
+2025-08-17 20:44:49 INFO  AUDIT - Added Employee: Employee [id=21, name=Gagan K Achar, email=gagan.ds22@sahyadri.edu.in, address=Adyar , gender=Male, password=63, role=null, salary=63.0, age=63, experience=35, bonus=3.0, department=tt, jobTitle=SDE]
+2025-08-17 20:44:56 INFO  AUDIT - Deleted Employee (via search) with ID 21
+2025-08-17 20:47:30 INFO  AUDIT - Added Employee: Employee [id=22, name=banana, email=gagan.ds22@sahyadri.edu.in, address=Adyar , gender=Male, password=77, role=null, salary=0.0, age=0, experience=0, bonus=0.0, department=rr, jobTitle=SDE]
+2025-08-17 20:47:39 INFO  AUDIT - Updated Employee: Employee [id=22, name=banana, email=gagan.ds22@sahyadri.edu.in, address=Adyar , gender=Male, password=77, role=null, salary=0.0, age=0, experience=55, bonus=0.0, department=rr, jobTitle=SDE]
+2025-08-17 20:47:40 INFO  AUDIT - Deleted Employee (via search) with ID 22
+2025-08-17 20:48:16 INFO  AUDIT - Added Employee: Employee [id=23, name=banana, email=gagan.ds22@sahyadri.edu.in, address=Adyar , gender=Male, password=0, role=null, salary=0.0, age=0, experience=0, bonus=0.0, department=tt, jobTitle=SDE]
+2025-08-17 20:48:27 INFO  AUDIT - Deleted Employee (via search) with ID 23
+2025-08-17 20:59:58 INFO  AUDIT - Added Employee: Employee [id=24, name=Gagan K Achar, email=test@gmail.com, address=Adyar , gender=Female, password=0, role=null, salary=0.0, age=0, experience=0, bonus=0.0, department=Cs, jobTitle=SDE]
+2025-08-17 21:00:20 INFO  AUDIT - Deleted Employee (via search) with ID 24
+2025-08-17 21:00:46 INFO  AUDIT - Added Employee: Employee [id=25, name=Gagan K Achar, email=test@gmail.com, address=Adyar , gender=Female, password=1, role=null, salary=1.0, age=1, experience=1, bonus=1.0, department=tt, jobTitle=SDE]
+2025-08-17 21:01:01 INFO  AUDIT - Deleted Employee (via search) with ID 25
+2025-08-17 21:02:13 INFO  AUDIT - Added Employee: Employee [id=26, name=Gagan K Achar, email=gagan.ds22@sahyadri.edu.in, address=Adyar , gender=Male, password=555, role=null, salary=44.0, age=44, experience=44, bonus=44.0, department=Cleaning, jobTitle=SDE]
+2025-08-17 21:02:22 INFO  AUDIT - Deleted Employee (via search) with ID 26
