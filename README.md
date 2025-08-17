@@ -93,9 +93,9 @@ mvn spring-boot:run
 
 Below are screenshots of the application interface:
 
-![Home Page](images/Screenshot 2025-08-17 211754.png)
+![Home Page](EmployeeManagementSystem/images/Screenshot 2025-08-17 211754.png)
 
-![Add Employee](images/Screenshot 2025-08-17 211819.png)
+![Add Employee](EmployeeManagementSystem/images/Screenshot 2025-08-17 211819.png)
 
-![Edit Employee](images/Screenshot 2025-08-17 211851.png)
+![Edit Employee](EmployeeManagementSystem/images/Screenshot 2025-08-17 211851.png)
 
