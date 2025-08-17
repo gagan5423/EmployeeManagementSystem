@@ -91,4 +91,11 @@ mvn spring-boot:run
 
 ## Screenshots
 
-!images/Screenshot 2025-08-17 211851.png
+Below are screenshots of the application interface:
+
+![Home Page](images/Screenshot 2025-08-17 211754.png)
+
+![Add Employee](images/Screenshot 2025-08-17 211819.png)
+
+![Edit Employee](images/Screenshot 2025-08-17 211851.png)
+
