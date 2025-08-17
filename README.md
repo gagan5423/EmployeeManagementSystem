@@ -89,6 +89,3 @@ mvn spring-boot:run
 - Ensure the **MySQL server is running** before starting the application.
 - **Spring Security** handles authentication and role-based access control.
 
-
-*Add screenshots here to showcase the UI.*
-
